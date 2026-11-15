@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ViralClipper – Turn long videos into short clips</title><link rel="stylesheet" href="style.css"></head><body><header><a class="logo" href="index.html">ViralClipper</a><nav><a href="index.html">Home</a><a href="terms.html">Terms of Service</a><a href="privacy.html">Privacy Policy</a></nav></header><main><section class="hero"><h1>ViralClipper</h1><p>ViralClipper turns long-form videos into short vertical clips and publishes them to the creator's own TikTok, YouTube and Instagram accounts.</p></section>
+<div class="cards">
+<div class="card"><h3>1. Select a video</h3><p>The creator chooses a long-form video they own or have the rights to use.</p></div>
+<div class="card"><h3>2. Create clips</h3><p>ViralClipper detects the most engaging moments and cuts them into short vertical clips with captions.</p></div>
+<div class="card"><h3>3. Publish</h3><p>After the creator reviews a clip, it is uploaded to their own connected TikTok account via the official TikTok API.</p></div>
+</div>
+<h2>TikTok integration</h2>
+<p>ViralClipper uses Login Kit to let the creator connect their own TikTok account and the Content Posting API to upload clips the creator has created and approved. ViralClipper only posts to the account the creator has connected and never posts without the creator's action.</p>
+<p class="small">ViralClipper is an independent tool and is not affiliated with or endorsed by TikTok, YouTube or Instagram.</p>
+</main><footer>&copy; 2026 ViralClipper &middot; <a href="terms.html">Terms of Service</a><a href="privacy.html">Privacy Policy</a><br>Contact: <a href="mailto:YOUR-Darkilix_bormet@hotmail.de">Darkilix_bormet@hotmail.de</a></footer></body></html>
